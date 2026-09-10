@@ -38,3 +38,6 @@ E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Api\obj\Debug\net10.0\refin
 E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Api\obj\Debug\net10.0\HarvestLink.Api.pdb
 E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Api\obj\Debug\net10.0\HarvestLink.Api.genruntimeconfig.cache
 E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Api\obj\Debug\net10.0\ref\HarvestLink.Api.dll
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

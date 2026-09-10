@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HarvestLink.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b12bdc8d6322f24cdf9129040b423184b497a39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3beb677dbb0b63ea52563d1264f18978f984f878")]
 [assembly: System.Reflection.AssemblyProductAttribute("HarvestLink.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HarvestLink.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
