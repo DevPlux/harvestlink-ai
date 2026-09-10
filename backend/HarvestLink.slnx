@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HarvestLink.Api/HarvestLink.Api.csproj" />
+    <Project Path="src/HarvestLink.Application/HarvestLink.Application.csproj" />
+    <Project Path="src/HarvestLink.Domain/HarvestLink.Domain.csproj" />
+    <Project Path="src/HarvestLink.Infrastructure/HarvestLink.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HarvestLink.IntegrationTests/HarvestLink.IntegrationTests.csproj" />
+    <Project Path="tests/HarvestLink.UnitTests/HarvestLink.UnitTests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,12 @@
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\bin\Debug\net10.0\HarvestLink.Domain.deps.json
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\bin\Debug\net10.0\HarvestLink.Domain.dll
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\bin\Debug\net10.0\HarvestLink.Domain.pdb
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\HarvestLink.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\HarvestLink.Domain.AssemblyInfoInputs.cache
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\HarvestLink.Domain.AssemblyInfo.cs
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\HarvestLink.Domain.csproj.CoreCompileInputs.cache
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\HarvestLink.Domain.sourcelink.json
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\HarvestLink.Domain.dll
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\refint\HarvestLink.Domain.dll
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\HarvestLink.Domain.pdb
+E:\DevPlux\SE\harvestlink-ai\backend\src\HarvestLink.Domain\obj\Debug\net10.0\ref\HarvestLink.Domain.dll
