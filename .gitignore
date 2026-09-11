@@ -1,6 +1,4 @@
 # Environment variables and secrets
-.env
-.env.*
 !.env.example
 **/secrets.json
 
@@ -34,3 +32,4 @@ Thumbs.db
 *.log
 tmp/
 temp/
+config.bat
