@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HarvestLink.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3beb677dbb0b63ea52563d1264f18978f984f878")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e8c83a2f79b2269782db2c1a81e3668d9e195b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HarvestLink.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HarvestLink.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
